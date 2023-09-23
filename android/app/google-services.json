@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882001534002",
+    "project_id": "newpage-f673a",
+    "storage_bucket": "newpage-f673a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882001534002:android:5fb282efaf37786b3ab02b",
+        "android_client_info": {
+          "package_name": "com.example.vinod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882001534002-dt972g78q5rov44bvc3qb351mlehi3fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQihaHMHt-1eyQAubzTWQw-1ZsM_B1-hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882001534002-dt972g78q5rov44bvc3qb351mlehi3fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
